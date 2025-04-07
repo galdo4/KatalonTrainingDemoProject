@@ -6,16 +6,16 @@
    <elementGuidId>ca021747-c52b-4665-8119-7b1a838a3bac</elementGuidId>
    <selectorCollection>
       <entry>
+         <key>CSS</key>
+         <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
+      </entry>
+      <entry>
          <key>BASIC</key>
          <value>//*[@type = 'submit' and (text() = ' Login ' or . = ' Login ')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
-      </entry>
-      <entry>
-         <key>CSS</key>
-         <value>button.oxd-button.oxd-button--medium.oxd-button--main.orangehrm-login-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
